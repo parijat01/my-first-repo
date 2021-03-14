@@ -1,3 +1,2 @@
 This was the challenge of front end mentors
-![Capture](https://user-images.githubusercontent.com/65271565/111083328-0e05808
-0-8533-11eb-9f44-222eb7b15e44.PNG)
+![Capture](https://user-images.githubusercontent.com/65271565/111083466-c7645600-8533-11eb-8ab3-e8dda8f4715e.PNG)
